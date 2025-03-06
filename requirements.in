@@ -3,5 +3,5 @@ sqlalchemy
 asyncpg 
 alembic 
 bcrypt 
-fastapi-admin
+starlette-admin
 python-dotenv
