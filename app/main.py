@@ -1,5 +1,4 @@
 import os
-import aioredis
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from starlette_admin.contrib.sqla import Admin, ModelView
