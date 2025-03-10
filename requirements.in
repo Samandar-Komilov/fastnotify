@@ -1,7 +1,0 @@
-fastapi
-sqlalchemy 
-asyncpg 
-alembic 
-bcrypt 
-starlette-admin
-python-dotenv
